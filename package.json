@@ -1,0 +1,12 @@
+{
+    "name": "codex-function",
+    "version": "1.0.0",
+    "description": "A Node.JS library to generate functions at runtime using OpenAI Codex.",
+    "main": "lib/index.js",
+    "author": "Antti <antti@antti.codes>",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "bent": "^7.3.12"
+    }
+}
