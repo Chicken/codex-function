@@ -1,6 +1,6 @@
 {
     "name": "codex-function",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Node.JS library to generate functions at runtime using OpenAI Codex.",
     "main": "lib/index.js",
     "author": "Antti <antti@antti.codes>",
@@ -8,5 +8,17 @@
     "type": "module",
     "dependencies": {
         "bent": "^7.3.12"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Chicken/codex-function.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Chicken/codex-function/issues"
+    },
+    "homepage": "https://github.com/Chicken/codex-function#readme",
+    "engines": {
+        "node": ">=16",
+        "npm": ">=7"
     }
 }

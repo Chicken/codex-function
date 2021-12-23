@@ -7,7 +7,8 @@ A Node.JS library to generate functions at runtime using OpenAI Codex.
 
 ## Usage
 
-The library will automaticly try to find a key in an environmental variable called `OPENAI_KEY`  
+This library currently only supports ESM imports.  
+The library will automaticly try to find a key in an environmental variable called `OPENAI_KEY`.  
 If you do not have this one you can manually set the key.
 
 ```js
